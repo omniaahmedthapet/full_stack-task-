@@ -1,0 +1,113 @@
+body {
+    background-image: url('sea.jpg');
+    background-size:1000px 300px ;
+  background-repeat: no-repeat;
+ color: #d6e1e3;
+ text-align: left;
+ padding-top: 50px;
+}
+h1
+{
+    margin-bottom: 0px;
+}
+h3{
+    margin-top: 1%;
+}
+button {
+margin-bottom: 3px;
+color: #eaeaff;
+background-color:rgba(255, 255, 255, 0) ;
+border-color: rgb(255, 255, 255);
+border-radius: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+
+.img
+{
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+background-image: url('bb.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+ color: #d6e1e3;
+ text-align: right;
+ padding-top: 100px;
+ 
+}
+
+.wor img{vertical-align: middle;}
+.wor .img{
+
+    position:absolute;
+    bottom: 0;
+    background: rgb(186, 191, 150);
+    color: white;
+    width: 100px;
+    padding: 20px;
+
+}
+{
+    font-size: 3em;
+    text-shadow: 2px 2px 4px #d6e1e3;
+    color: #813838;
+}
+    */
